@@ -7,13 +7,12 @@ UTS mata kuliah Manajemen Konfigurasi Perangkat lunak
 
 # Berikut beberapa referensi 
 # Referensi Employee
-- “Refactoring in Practice” panduan Refactoring dan cara menggunakannya dari Alex Sologub: https://medium.com/@alex.sologub/refactoring-in-practice-4d4de4c7ed
-- “Clean Code: Refactoring Patterns” menjelaskan bagaimana membuat kualitas kode yg baik pada refactoring dari Anton Antonov: https://medium.com/@antontonov/clean-code-refactoring-patterns-5b5bb676e7e9
-- 'Enum"  cara penggunan enum pada konstanta https://stackoverflow.com/questions/4888327/enum-switch-statement-in-java
+- "Simple Java Code Refactoring" link ini membahas tentang teknik refaktorisasi pada kode program Java yang sederhana http://blog.nostratech.com/2015/12/simple-java-code-refacktoring.html
+- “How refactoring works in Java” menjelaskan bagaimana membuat kualitas kode yg baik pada refactoring di java https://codegym.cc/groups/posts/196-how-refactoring-works-in-java
+- 'Enum"  cara penggunan enum pada konstanta https://nextgen.co.id/java-enum/
 - 'StackOverflow' menjelaskna konstruktor menerima argumen yang tidak bernilai null https://stackoverflow.com/questions/11071944/how-to-make-sure-that-a-constructor-receives-non-null-arguments
-- 'StackOverflow' menjelaskan ttg perbedaan antara pendapatan bulanan dan pendapatan tambahan https://stackoverflow.com/questions/42445893/what-is-the-difference-between-the-terms-monthly-income-and-additional-income-in
+- 'employe salary calculation' menjelaskan tentang perhitungan gaji bulanan karyawan https://stackoverflow.com/questions/42445893/what-is-the-difference-between-the-terms-monthly-income-and-additional-income-in
 
 # Referensi TaxFunction
-- “Refactoring with IDEs: Introducing Rename Refactoring” dari Tait Hoyem. link ini menjelaskan tentang fitur Rename Refactoring sesuai nama class atau variabel pada kode program https://medium.com/@tait_hoyem/refactoring-with-ides-introducing-rename-refactoring-78d4b4df36b4.
-- “Manual Refactoring for Cleaner Code” dari Jonathan Cutrell. link ini membahas cara refaktorisasi termasuk pergantian nama class atau variabel di https://hackernoon.com/manual-refactoring-for-cleaner-code-8e6e66795d62.
-- “Using Linters and Formatters for Code Consistency” dari David Ojeda. link ini menjeslakn tentang penggunaan cara penggunaan formatter penamaan pada suatu teks class sehinggan sesuai gaya penulisan kode https://dzone.com/articles/using-linters-and-formatters-for-code-consistency.
+- "Simple Java Code Refactoring" link ini membahas tentang teknik refaktorisasi pada kode program Java yang sederhana http://blog.nostratech.com/2015/12/simple-java-code-refacktoring.html
+- "Latihan Kode Program Java: Menghitung Diskon Potongan Harga" link ini yang membahas tentang bagaimana cara menghitung diskon dan potongan harga pada program Java. https://www.duniailkom.com/latihan-kode-program-java-menghitung-diskon-potongan-harga/
