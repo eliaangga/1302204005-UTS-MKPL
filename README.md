@@ -1,9 +1,9 @@
 # 1302204005-UTS-MKPL
 UTS mata kuliah Manajemen Konfigurasi Perangkat lunak
 
-Nama : Elia Angga
-Kelas : SE4402
-nim : 1302204005
+* Nama : Elia Angga
+* Kelas : SE4402
+* NIM : 1302204005
 
 # Berikut beberapa referensi 
 # Referensi Employee
